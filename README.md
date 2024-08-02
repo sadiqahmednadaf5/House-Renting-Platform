@@ -2,15 +2,15 @@
 
 ## Overview
 
-The House Rating Platform is a web application that allows users to rate and review houses. It features a user-friendly interface for house ratings and reviews, and it includes CRUD (Create, Read, Update, Delete) operations. The platform uses modern web technologies including HTML, CSS, JavaScript, Node.js, and Express.js, with MongoDB as the database.
+The House Rating Platform is a web application that allows users to rate and review houses. It features a user-friendly interface for house ratings and reviews, and it includes CRUD (Create, Read, Update, Delete) operations. The platform uses modern web technologies including HTML, CSS, JavaScript, Bootstrap, Node.js, and Express.js, with MongoDB as the database.
 
 ## Features
 
 - **Add Houses to Rent:** Users can add new houses available for rent.
 - **User Ratings:** Users can rate houses based on various criteria.
 - **Reviews:** Users can leave detailed reviews for each house.
-- **CRUD Operations:** Create, Read, Update, and Delete houses,ratings and reviews.
-- **Responsive Design:** Built with HTML,CSS,ejs,Bootstrap for a responsive user experience.
+- **CRUD Operations:** Create, Read, Update, and Delete houses, ratings and reviews.
+- **Responsive Design:** Built with HTML, CSS,ejs, and Bootstrap for a responsive user experience.
 - **Live Link:** Access the live version of the platform [here](https://house-renting-platform.onrender.com/listings/).
 
 ## Technologies Used
