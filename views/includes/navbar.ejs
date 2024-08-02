@@ -3,8 +3,11 @@
         background-color: #fe424d;
         color: #fff;
         border-radius: 25px;
-        padding: 0 1rem 0 1rem
+        padding: 0 1rem 0 1rem;
+        display: flex;
+        align-items: center;
     }
+
 
     .search-btn:hover {
         background-color: #fe424d;
@@ -48,7 +51,7 @@
             </div>
 
             <div class="navbar-nav ms-auto">
-                <a class="nav-link" href="/listings/new">Airbnb Your home</a>
+                <a class="nav-link" href="/listings/new">Add Your home</a>
                 <%if(!currUser){%>
                     <a class="nav-link" href="/signup"><b>Sign up</b></a>
                     <a class="nav-link" href="/login"><b>Log in</b>
